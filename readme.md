@@ -1,2 +1,5 @@
-Personal website repository.
-I used the CEEVEE template from style shout, license details included elsewhere.
+# ronniecurious.github.io
+
+Personal site for Rishabh “Ronnie” Rai.
+
+Static GitHub Pages. Open `index.html` or serve the folder.
